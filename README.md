@@ -68,12 +68,6 @@ MapMan • MetaboAnalyst
 
 ---
 
-## 🏆 Achievements
-
-🥇 CSIR-UGC NET AIR-62 (Fellowship)  
-🥇 GATE (Fellowship)
----
-
 ## 👩‍🔬 Leadership & Mentorship
 
 - Mentored postgraduate researchers in experimental design & data analysis  
