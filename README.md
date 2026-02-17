@@ -19,7 +19,7 @@ Decoding complex biological systems through integrative genomics, transcriptomic
 
 ---
 
-<img align="right" width="400" src="YOUR_GIF_LINK_HERE">
+<img align="right" width="400" src="https://github.com/chaudhryanjlli/chaudhryanjlli/blob/main/anjali_real_data_bioinformatics.gif">
 
 ## 🔬 Research Profile
 
@@ -70,8 +70,7 @@ MapMan • MetaboAnalyst
 
 ## 👩‍🔬 Leadership & Mentorship
 
-- Mentored postgraduate researchers in experimental design & data analysis  
-- Led PGPR-assisted saffron cultivation training for farmers  
+- Mentored postgraduate researchers in experimental design & data analysis   
 - International conference speaker  
 
 ---
