@@ -19,7 +19,7 @@ Decoding complex biological systems through integrative genomics, transcriptomic
 
 ---
 
-<img align="right" width="340" src="https://github.com/chaudhryanjlli/chaudhryanjlli/blob/main/anjali_real_data_bioinformatics.gif">
+<img align="right" width="320" src="https://github.com/chaudhryanjlli/chaudhryanjlli/blob/main/anjali_real_data_bioinformatics.gif">
 
 ## 🔬 Research Profile
 
@@ -30,6 +30,8 @@ Decoding complex biological systems through integrative genomics, transcriptomic
 - 🌱 Plant developmental biology & host–pathogen interaction  
 
 ---
+
+<img align="right" width="320" src="https://github.com/chaudhryanjlli/chaudhryanjlli/blob/main/bioinformatics_code_rain.gif">
 
 ## 🧪 Current Research Focus
 
