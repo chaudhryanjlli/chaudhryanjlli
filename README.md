@@ -4,7 +4,7 @@
   <img src="https://github.com/chaudhryanjlli/chaudhryanjlli/blob/main/bioinformatics_cinematic_ultra_realistic-ezgif.com-resize.gif"
        alt="Bioinformatics Banner"
        width="100%"
-       style="max-width: 100%; height: 50%;" />
+       style="max-width: 100%; height: 25%;" />
 </p>
 
 <div align="center">
