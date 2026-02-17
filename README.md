@@ -1,6 +1,6 @@
 <!-- ======================= TOP BANNER ======================= -->
 
-![MasterHead](YOUR_GIF_LINK_HERE)
+![MasterHead](https://github.com/chaudhryanjlli/chaudhryanjlli/blob/main/bioinformatics_cinematic_ultra_realistic-ezgif.com-resize.gif)
 
 <div align="center">
 
