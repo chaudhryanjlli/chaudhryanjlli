@@ -24,7 +24,7 @@ Decoding complex biological systems through integrative genomics, transcriptomic
 ## 🔬 Research Profile
 
 - 🎓 PhD in Life Sciences – AcSIR  
-- 🧬 7+ years in genomics, transcriptomics & metabolomics  
+- 🧬 8+ years in genomics, transcriptomics & metabolomics  
 - 💻 Bioinformatics pipeline development for large-scale omics data  
 - 📊 RNA-Seq • Genome-wide analysis • Evolutionary genomics  
 - 🌱 Plant developmental biology & host–pathogen interaction  
@@ -39,14 +39,6 @@ Decoding complex biological systems through integrative genomics, transcriptomic
 - Transcriptome & metabolome coupling  
 - AI-driven biological data interpretation  
 
----
-
-## 🚀 Key Scientific Contributions
-
-🧬 De novo transcriptome assembly of *Crocus sativus* (96 samples)  
-🧬 Genome analysis of *Venturia inaequalis* (BUSCO 99%)  
-🧬 TIR-NBS-LRR gene family in plant immunity  
-🧬 Cross-platform microarray meta-analysis (352 samples)  
 
 ---
 
@@ -72,15 +64,14 @@ MapMan • MetaboAnalyst
 - Apical bud phenology in saffron – Protoplasma (2024)  
 - TIR-NBS-LRR genes in tomato – Plant Protection Science (2024)  
 - Genome-wide TNL analysis in potato – Frontiers in Genetics (2022)  
-- Rhizosphere microbiome & stress biology – Springer (2024/2025)  
+- Rhizosphere microbiome & stress biology – Springer (2025)  
 
 ---
 
 ## 🏆 Achievements
 
 🥇 CSIR-UGC NET AIR-62 (Fellowship)  
-🥇 GATE 85.92 percentile  
-
+🥇 GATE (Fellowship)
 ---
 
 ## 👩‍🔬 Leadership & Mentorship
@@ -102,12 +93,12 @@ MapMan • MetaboAnalyst
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjlliChaudhry&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaudhryanjlli&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnjlliChaudhry&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjlliChaudhry&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chaudhryanjlli&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudhryanjlli&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
