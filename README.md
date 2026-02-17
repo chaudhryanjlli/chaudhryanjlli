@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=4000&center=true&vCenter=true&width=750&height=70&lines=Hi+👋,+I'm+Anjali+Chaudhary;Computational+Biologist+🧬;RNA-Seq+%7C+Multi-omics+%7C+Genome+Analysis;Open+to+Postdoctoral+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=4000&center=true&vCenter=true&width=750&height=70&lines=Hi+👋,+I'm+Anjali+Chaudhary;Computational+Biologist+🧬;RNA-Seq+%7C+Multi-omics+%7C+Genome+Analysis" />
 
 </div>
 
