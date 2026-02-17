@@ -19,7 +19,7 @@ Decoding complex biological systems through integrative genomics, transcriptomic
 
 ---
 
-<img align="right" width="400" src="https://github.com/chaudhryanjlli/chaudhryanjlli/blob/main/anjali_real_data_bioinformatics.gif">
+<img align="right" width="340" src="https://github.com/chaudhryanjlli/chaudhryanjlli/blob/main/anjali_real_data_bioinformatics.gif">
 
 ## 🔬 Research Profile
 
